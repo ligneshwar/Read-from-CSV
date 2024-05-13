@@ -1,11 +1,4 @@
 # Read-from-CSV
-
-NAME: RAMYA.P
-
-REGISTER NUMBER: 212223240137
-
-DEPARTMENT: AIML
-
 ## AIM:
 To write a python program for reading the csv file content
 ## ALGORITHM:
