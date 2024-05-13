@@ -27,7 +27,7 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-
+![image](https://github.com/ligneshwar/Read-from-CSV/assets/149365037/d3986d54-9aec-408e-a527-63dd06c18d47)
 
 ## RESULT:
 Thus the program is written to read the csv file.
